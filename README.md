@@ -60,7 +60,7 @@ Veja o cartão em ação, com responsividade e efeitos ao vivo:
 ## 📁 Organização do Projeto
 
 O projeto é organizado da seguinte maneira para garantir uma estrutura limpa e de fácil manutenção:
-
+```
 BusinessCard/
 ├── index.html
 ├── style/
@@ -69,3 +69,4 @@ BusinessCard/
 │ ├── favicon.ico
 │ └── captura-business-card.png
 └── README.md
+```
