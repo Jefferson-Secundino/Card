@@ -2,7 +2,7 @@
 
 ## 📸 Screenshot
 
-![Captura do Site](/imagem/screencapture.pngimagens/)
+![Captura do Site](/imagem/screencapture.png)
 
 
 ## 🚀 Demonstração
