@@ -175,6 +175,25 @@ a:hover {
   color: var(--gray-dark);
 }
 
+/* Exibe máscara por padrão */
+.masked {
+  display: inline;
+}
+
+/* Esconde o número real por padrão */
+.real-number {
+  display: none;
+}
+
+/* Ao passar o mouse, inverte: esconde a máscara e mostra o número real */
+#tel:hover .masked {
+  display: none;
+}
+
+#tel:hover .real-number {
+  display: inline;
+}
+
 /* Estilo para ícones de contato */
 .contact-item i {
   color: var(--gray-dark);
